@@ -1,8 +1,8 @@
 node{
 stage('config'){
 	sh "mkdir hai"
-}
-	stage('filecreate'){
+		}
+stage('filecreate'){
 	sh "touch file.txt"
-	}
+		}
 }
