@@ -1,6 +1,6 @@
 node{
 stage('config'){
-	sh "mkdir hai"
+	sh "mkdir direct"
 		}
 stage('filecreate'){
 	sh "touch file.txt"
