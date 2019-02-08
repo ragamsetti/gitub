@@ -5,4 +5,7 @@ stage('config'){
 stage('filecreate'){
 	sh "touch file.txt"
 		}
+	stage('content'){
+	sh "echo haichittigaru >> file.txt"
+	}
 }
