@@ -1,0 +1,20 @@
+From a22c8e84330614c22382eff99ae5346a3ba51114 Mon Sep 17 00:00:00 2001
+From: chitti <chittichitti22@yahoo.com>
+Date: Sat, 24 Aug 2019 07:27:40 +0530
+Subject: [PATCH 1/2] asA
+
+---
+ muni/muni.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 muni/muni.txt
+
+diff --git a/muni/muni.txt b/muni/muni.txt
+new file mode 100644
+index 0000000..2a586be
+--- /dev/null
++++ b/muni/muni.txt
+@@ -0,0 +1 @@
++hai muni.txt
+-- 
+2.19.1
+

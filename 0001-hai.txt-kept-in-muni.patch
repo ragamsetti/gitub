@@ -1,0 +1,17 @@
+From cf5b9c2d404d517ef79c8b245551367f3895f943 Mon Sep 17 00:00:00 2001
+From: chitti <chittichitti22@yahoo.com>
+Date: Sat, 24 Aug 2019 07:29:00 +0530
+Subject: [PATCH] hai.txt kept in muni
+
+---
+ hai.txt => muni/hai.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename hai.txt => muni/hai.txt (100%)
+
+diff --git a/hai.txt b/muni/hai.txt
+similarity index 100%
+rename from hai.txt
+rename to muni/hai.txt
+-- 
+2.19.1
+
